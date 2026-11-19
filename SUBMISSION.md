@@ -158,6 +158,6 @@ pytest tests/public -q
 python scripts/grade.py --submission-dir . --out outputs/grade_report.json
 ```
 
-- [ ] Nộp **link repo** đúng hạn lên LMS / CodeLabs
+- [x] Nộp **link repo** đúng hạn lên LMS / CodeLabs
 
 > Máy không chạy được (thiếu lib, sai path, lỗi cú pháp) → phần chấm máy = lỗi kỹ thuật — sửa đóng gói trước khi nộp.
